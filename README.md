@@ -1,2 +1,2 @@
 # mitOs
-💻 | mito's operation system in react
+💻 | mito's operating system in react

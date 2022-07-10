@@ -1,0 +1,5 @@
+*.config.js
+
+/src/**/*.ignore.ts
+/src/**/*.ignore.tsx
+/src/**/*.ignore.json
